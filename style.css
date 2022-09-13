@@ -1,3 +1,18 @@
+*{
+    background-color: aqua;
+}
+
+
 .header_test{
+    text-align: center;
+}
+
+.jsp_test{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.mon_image{
     text-align: center;
 }
