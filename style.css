@@ -1,16 +1,20 @@
 *{
     background-color: aqua;
+    margin: 0;
+    padding: 0;
 }
 
 
 .header_test{
     text-align: center;
+    background-color: yellow;
 }
 
 .jsp_test{
     display: flex;
     flex-direction: column;
     text-align: center;
+    background-color: brown;
 }
 
 .mon_image{
